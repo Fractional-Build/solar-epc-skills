@@ -252,6 +252,15 @@ After delivering the report, offer to:
    (a formal delay notice protects the right to claim schedule extension)
 4. Create a weather delay log if multiple weather delays have been reported
 
+## Examples
+
+Worked examples showing input field notes and the resulting formatted report:
+
+- [Fresno Commerce Center — Full Production Day](examples/fresno-commerce-center.md)
+  — Racking milestone completed, two subs on site, owner's rep verbal scope comment,
+  material delivery. Illustrates day classification, missing-data placeholders, scope
+  milestone language, person-hours math, and verbal-instruction flagging.
+
 ## Domain Notes — What Field Notes Usually Miss
 
 When the user's input is sparse, these are the items most commonly omitted:
